@@ -10,7 +10,8 @@ Plant Classification app for iOS Devices:
     let imageClassifierWrapper = try? MobileNet(configuration: defaultConfig)
 ```
 with
-```
+
+```SWIFT UI
 let imageClassifierWrapper = try? platty1(configuration: defaultConfig)
 ```
 with the model name
