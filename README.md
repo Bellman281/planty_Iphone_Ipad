@@ -6,5 +6,7 @@ Plant Classification app for iOS Devices:
 2. Drag and Drop the model from repo to the project.
 
 3.  Replace 
+```SWIFT UI
     let imageClassifierWrapper = try? MobileNet(configuration: defaultConfig)
+```
 with the model name
